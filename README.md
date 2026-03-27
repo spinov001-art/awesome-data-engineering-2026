@@ -321,3 +321,11 @@ Found a missing tool? Open an issue or submit a PR!
 ---
 
 *Last updated: March 2026*
+
+---
+
+## Author
+
+Built by Alex Spinov — production-grade web scrapers and data tools.
+
+- [88+ scrapers on Apify](https://apify.com/knotless_cadence) | Email: **spinov001@gmail.com**
