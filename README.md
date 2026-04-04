@@ -322,10 +322,13 @@ Found a missing tool? Open an issue or submit a PR!
 
 *Last updated: March 2026*
 
+
 ---
 
-## Author
+## Need Custom Developer Tools or Data Solutions?
 
-Built by Alex Spinov — production-grade web scrapers and data tools.
+I build **production-ready scrapers, APIs, and automation tools** for businesses. 88+ tools deployed on Apify, 270+ open-source repos.
 
-- [88+ scrapers on Apify](https://apify.com/knotless_cadence) | Email: **spinov001@gmail.com**
+📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — describe your data challenge, get a free estimate within 2 hours.
+
+🔧 **[Browse 88+ ready-made scrapers on Apify →](https://apify.com/knotless_cadence)** — Reddit, Google, Amazon, HN and more. Deploy in 1 click.
