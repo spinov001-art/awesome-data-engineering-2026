@@ -4,6 +4,8 @@
 
 **⭐ Star this repo** to keep up with the fast-moving data engineering ecosystem!
 
+> 🚀 **Need a custom data pipeline or scraper?** $250 flat rate, delivered in 48 hours. Email **[spinov001@gmail.com](mailto:spinov001@gmail.com)** | [78+ ready-made scrapers on Apify →](https://apify.com/knotless_cadence)
+
 ---
 
 ## Contents
