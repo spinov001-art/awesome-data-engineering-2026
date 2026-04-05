@@ -329,6 +329,6 @@ Found a missing tool? Open an issue or submit a PR!
 
 I build **production-ready scrapers, APIs, and automation tools** for businesses. 78+ tools deployed on Apify, 270+ open-source repos.
 
-📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — describe your data challenge, get a free estimate within 2 hours.
+📧 **[spinov001@gmail.com](mailto:spinov001@gmail.com)** — **$250 flat rate, 48h delivery.** Describe your data challenge, get a free estimate within 2 hours.
 
 🔧 **[Browse 78+ ready-made scrapers on Apify →](https://apify.com/knotless_cadence)** — Reddit, Google, Amazon, HN and more. Deploy in 1 click.
