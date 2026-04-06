@@ -317,7 +317,7 @@ Found a missing tool? Open an issue or submit a PR!
 
 **Aleksej Spinov** — Data Engineer & Technical Writer
 - 🔗 [GitHub](https://github.com/spinov001-art) (285+ repos)
-- 📝 [Dev.to](https://dev.to/spinov001) (480+ articles)
+- 📝 [Technical articles](https://github.com/spinov001-art) (265+ repos)
 - 💼 Available for technical writing & consulting: Spinov001@gmail.com
 
 ---
